@@ -20,6 +20,16 @@ For Recalbox
 
 wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/recalbox_install_gpi.sh" | bash
 
+--------------------
+For Batocera
+1. Make sure internet connected.
+2. Make sure keyboard connected.
+3. Press F4 first. And then press ALT-F2 enter termial.
+4. User: root Password: linux
+5. In the terminal, type the one-line command below(Case sensitive):
+
+wget -O - "https://raw.githubusercontent.com/silt247/Batosafeshotdowngpi/master/Batocera_install_gpi.sh" | bash
+
 
 
 # retroflag-picase (nespi+, superpi, megapi case)
