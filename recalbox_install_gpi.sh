@@ -42,5 +42,5 @@ fi
 
 #Step 5) Reboot to apply changes----------------------------
 echo "RetroFlag Pi Case Switch installation done. Will now reboot after 3 seconds."
-
+/recalbox/scripts/recalbox-save-overlay.sh
 #-----------------------------------------------------------
