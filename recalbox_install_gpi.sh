@@ -37,6 +37,10 @@ if grep -q "python $script &" "S99RetroFlag";
 		echo "python $script &" >> $DIR
 		chmod +x $DIR
 		echo "Executable S99RetroFlag configured."
+fi
 #-----------------------------------------------------------
 
+#Step 7) Reboot to apply changes----------------------------
+echo "RetroFlag Pi Case installation done. Will now reboot after 3 seconds."
+sleep 3
 
