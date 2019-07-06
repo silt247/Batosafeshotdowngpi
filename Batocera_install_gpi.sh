@@ -44,13 +44,10 @@ fi
 echo "RetroFlag Pi Case Switch installation done. Saving changes."
 
 /recalbox/scripts/recalbox-save-overlay.sh
-#-----------------------------------------------------------
 
-fi
-#-----------------------------------------------------------
-
-#Step 6) Rebooting ----------------------------
 echo "RetroFlag Pi Case Switch installation done. Will now reboot after 4 seconds."
 sleep 4
 reboot
+
 #-----------------------------------------------------------
+
