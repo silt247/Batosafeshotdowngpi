@@ -13,7 +13,9 @@ wget -O - "https://raw.githubusercontent.com/silt247/Batosafeshotdowngpi/master/
 
 
 
+
 #---------------------------------------------------------------------
+
 
 
 Note: 
