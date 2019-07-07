@@ -12,6 +12,10 @@ For Batocera
 wget -O - "https://raw.githubusercontent.com/silt247/Batosafeshotdowngpi/master/Batocera_install_gpi.sh" | bash
 
 
+
+
+
+
 Note: 
 I Install the sript via PuTTy using windows pc
 
