@@ -3,8 +3,8 @@
 sleep 2s
 filewebsite="https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master"
 
-mount -o remount, rw /BATOCERA
-mount -o remount, rw /
+mount -o remount, rw /boot
+mount -o remount, rw /batocera
 
 #Step 3) Download Python script-----------------------------
 mkdir /opt/RetroFlag
