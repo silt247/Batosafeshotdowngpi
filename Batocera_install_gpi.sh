@@ -1,5 +1,5 @@
 #!/bin/bash
-#Step 1 make /BATOCERA writable---------------------------------
+#Step 1 make /batocera writable---------------------------------
 sleep 2s
 filewebsite="https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master"
 
