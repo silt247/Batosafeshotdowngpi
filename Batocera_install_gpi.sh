@@ -43,7 +43,7 @@ fi
 #Step 5) Apply changes----------------------------
 echo "RetroFlag Pi Case Switch installation done. Saving changes."
 
-/batocera-save-overlay.sh
+/user/bin/batocera-save-overlay.sh
 
 echo "RetroFlag Pi Case Switch installation done. Will now reboot after 4 seconds."
 sleep 4
