@@ -47,7 +47,7 @@ echo "RetroFlag Pi Case Switch installation done. Saving changes."
 
 echo "RetroFlag Pi Case Switch installation done. Will now reboot after 4 seconds."
 sleep 4
-reboot
+
 
 #-----------------------------------------------------------
 
